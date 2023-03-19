@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Hassan</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">A full-stack developer from Sri Lanka with a passion for exploring new technologies and pushing the boundaries of what's possible. With a belief in the power of technology to make a positive impact on people's lives, I'm always on the lookout for ways to leverage my skills to create meaningful change. When I'm not coding, you can find me hiking in the mountains, binge-watching my favorite shows, or getting a workout in the gym. I believe that a well-rounded life is the key to success, and I strive to bring that philosophy to everything I do. With a dedication to my craft and an unconventional approach to problem-solving, I'm excited to collaborate with others and explore the possibilities together. Let's create something amazing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzahassanirshad&label=Profile%20views&color=0e75b6&style=flat" alt="hamzahassanirshad" /> </p>
 
