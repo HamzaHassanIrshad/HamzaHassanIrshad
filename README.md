@@ -5,7 +5,9 @@
 Hi there! I'm a software engineer with a passion for exploring new technologies and pushing the boundaries of what's possible. With a belief in the power of technology to make a positive impact on people's lives, I'm always on the lookout for ways to leverage my skills to create meaningful change. When I'm not coding, you can find me hiking in the mountains, binge-watching my favorite shows, or getting a workout in the gym. I believe that a well-rounded life is the key to success, and I strive to bring that philosophy to everything I do. With a dedication to my craft and an unconventional approach to problem-solving, I'm excited to collaborate with others and explore the possibilities together. Let's create something amazing!
 
  ## Rapidfire
- <table><tr><td valign="top" width="50%">🔭 I’m currently working on: Bettering myself!
+ <table><tr><td valign="top" width="50%">
+ 
+ 🔭 I’m currently working on: Bettering myself!
 
 👯 I’m looking to collaborate on: I'm a full-stack developer with experience in web development and mobile app development. Let me know if you have any projects in mind that I can help with.
 
@@ -13,9 +15,11 @@ Hi there! I'm a software engineer with a passion for exploring new technologies 
 
 🌱 I’m currently learning: I'm currently focused on learning full-stack development.
 
-⚡ Fun fact: I love to workout and watch movies.</td><td valign="top" width="50%"><div align="center"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" style="width: 100%" />
+⚡ Fun fact: I love to workout and watch movies.
  
- 📫 How to reach me: e-mail - hamzahassanoff@gmail.com</div></td></tr></table>
+ 📫 How to reach me: e-mail - hamzahassanoff@gmail.com</td>
+ 
+ <td valign="top" width="50%"><div align="center"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" style="width: 100%" /></div></td></tr></table>
 
 ## My Skill Set
 <table align='center' style='margin-left:auto; margin-right:auto;'><tr><td style="width: 25%; vertical-align: top; text-align:center;"> 
