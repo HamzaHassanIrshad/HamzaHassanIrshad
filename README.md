@@ -13,9 +13,9 @@ Hi there! I'm a software engineer with a passion for exploring new technologies 
 
 🌱 I’m currently learning: I'm currently focused on learning full-stack development.
 
-⚡ Fun fact: I love to workout and watch movies.</td><td valign="top" width="50%"><div align="center"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" style="width: 100%" /></div> </td></tr></table>
-
-📫 How to reach me: e-mail - hamzahassanoff@gmail.com
+⚡ Fun fact: I love to workout and watch movies.</td><td valign="top" width="50%"><div align="center"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" style="width: 100%" />
+ 
+ 📫 How to reach me: e-mail - hamzahassanoff@gmail.com</div></td></tr></table>
 
 ## My Skill Set
 <table align='center' style='margin-left:auto; margin-right:auto;'><tr><td style="width: 25%; vertical-align: top; text-align:center;"> 
