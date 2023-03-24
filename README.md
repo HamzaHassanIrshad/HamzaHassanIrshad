@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzahassanirshad" alt="hamzahassanirshad" /></a> </p>
 
-- 🔭 I’m currently working on **Bettering myself!**
+- 🔭 I’m currently working on **bettering myself!**
 
-- 🌱 I’m currently learning **I'm currently focused on learning full-stack development and data science.**
+- 🌱 I’m currently learning **full-stack development and data science.**
 
 - 👯 I’m looking to collaborate on **I'm a full-stack developer with experience in web development and mobile app development. Let me know if you have any projects in mind that I can help with.**
 
-- 🤝 I’m looking for help with **Finding a job!**
+- 🤝 I’m looking for help with **finding a role at a good company which I would perfectly fit into!**
 
 - 👨‍💻 All of my projects are available at [https://hamzahassanirshad.github.io/](https://hamzahassanirshad.github.io/)
 
-- 💬 Ask me about **Well, what's the meaning of life? Just kidding! I'm open to any questions you have, whether they're serious, silly, or somewhere in between. So go ahead, hit me with your best shot!**
+- 💬 Ask me about **what's the meaning of life? Just kidding! I'm open to any questions you have, whether they're serious, silly, or somewhere in between. So go ahead, hit me with your best shot!**
 
 - 📫 How to reach me **hamzahassanoff@gmail.com**
 
-- ⚡ Fun fact **I love to workout and watch movies.**
+- ⚡ Fun fact **I strive everyday to live in the moment, and to better myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
