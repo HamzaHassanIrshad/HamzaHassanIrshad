@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Cloud & Cybersecurity Enthusiast | AI Explorer</h3>
 
 <p align="center">
-I'm a developer who loves building things—especially full-stack web apps, cloud-native systems, and tools that make life easier. I enjoy solving problems, learning new tech, and finding better ways to do things. Most of the time, you'll find me deep in code, debugging something that refuses to work—and I don’t stop until it does. Outside of tech, I try to stay active, keep a balanced mindset, and keep learning every day.
+I'm a developer who loves building things, especially full-stack web apps, cloud-native systems, and tools that make life easier. I enjoy solving problems, learning new tech, and finding better ways to do things. Most of the time, you'll find me deep in code, debugging something that refuses to work, and I don’t stop until it does. Outside of tech, I try to stay active, keep a balanced mindset, and keep learning every day.
 </p>
 
 <p align="left">
@@ -15,13 +15,13 @@ I'm a developer who loves building things—especially full-stack web apps, clou
   </a>
 </p>
 
-- 🔭 Currently building: **FlyerScout** — a smart grocery flyer-matching and meal planning platform using AI and OpenAI APIs  
+- 🔭 Currently building: **FlyerScout** ,  a smart grocery flyer-matching and meal planning platform using AI and OpenAI APIs  
 - 🌱 Learning: **Software Engineering, Cloud Architecture, Cybersecurity, and Artificial Intelligence**  
 - 👯 Open to collaborating on: **Full-stack projects, AI integrations, backend APIs, or anything challenging and fun**  
 - 👨‍💻 My portfolio: [hamzahassanirshad.github.io](https://hamzahassanirshad.github.io/)  
 - 💬 Ask me about: **Full-stack development, cloud tech, side projects, or just say hi**  
 - 📫 Reach me at: **hamzahassanoff@gmail.com**  
-- ⚡ Fun fact: **I’m always looking to improve—whether it’s writing cleaner code or learning something new**  
+- ⚡ Fun fact: **I’m always looking to improve, whether it’s writing cleaner code or learning something new**  
 
 ---
 
